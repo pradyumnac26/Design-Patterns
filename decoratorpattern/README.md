@@ -9,6 +9,7 @@ The **Decorator Pattern** is a structural design pattern that allows you to dyna
 
 ## **2. UML Diagram**
 ![Decorator Pattern UML](uml_diagram.png)
+![Decorator Pattern UML](uml_diagram_1.png)
 
 ## **3. Implementation Example: Pizza with Toppings**
 ### **Components**
